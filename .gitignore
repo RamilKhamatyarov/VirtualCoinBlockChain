@@ -1,0 +1,69 @@
+/Problems/FindAllEmptyDirectories/src/main/Main.java
+.gitignore
+.gradle/
+.idea/.gitignore
+.idea/aws.xml
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/frameworkLessonHistory/
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/uiDesigner.xml
+.idea/vcs.xml
+Problems/ASCII Art/
+Problems/Account/
+Problems/Accounts/
+Problems/An infinite numbers supplier/
+Problems/Bad words detecting/
+Problems/Calculating factorials/
+Problems/Calculator with four methods/
+Problems/Check a number is positive/
+Problems/Check if a number is prime/
+Problems/Compression algorithm/
+Problems/Convert a date/
+Problems/Convert to byte array/
+Problems/Convert to bytes/
+Problems/Correct the usage of non-generic class/
+Problems/Count passwords/
+Problems/Count words without repetitions/
+Problems/Count words/
+Problems/Counting clicks/
+Problems/Decompose a math function/
+Problems/Disjunct all/
+Problems/Find the first occurrence of the word  the/
+Problems/FindAllEmptyDirectories/basedir/
+Problems/FindAllEmptyDirectories/out/
+Problems/Finding max and min elements/
+Problems/How many nuts each squirrel will get/
+Problems/Inverting streams/
+Problems/Is between/
+Problems/Maximum element in a matrix/
+Problems/Maximum of the absolute values/
+Problems/Output elements/
+Problems/Powers of two/
+Problems/Prime numbers/
+Problems/Print elements of a stream/
+Problems/Range quadratic sum/
+Problems/Reverse input text/
+Problems/Reversing input numbers/
+Problems/Secret codes/
+Problems/Sorting arrays/
+Problems/Sorting the absolute values/
+Problems/Spell checker/
+Problems/Sum of divisors/
+Problems/The address book/
+Problems/The average salary/
+Problems/The first element/
+Problems/The product of squares/
+Problems/The sequence (1)/
+Problems/The sequence/
+Problems/The ten most frequent words/
+Problems/The total number of employees/
+Problems/The total sum of transaction by each account/
+Problems/Triples/
+Problems/lesson-info.yaml
+
